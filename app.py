@@ -103,9 +103,9 @@ path_levis = os.path.join(current_dir, "logo2.png")
 
 st.markdown(f"""
     <div class="header-wrapper">
-        <div style="width: 150px; text-align: left;">{set_high_qual_logo(path_increff, "65px")}</div>
+        <div style="width: 150px; text-align: left;">{set_high_qual_logo(path_increff, "120px")}</div>
         <h1 class="super-header">Increff USP Automation</h1>
-        <div style="width: 150px; text-align: left; padding-left: 20px;">{set_high_qual_logo(path_levis, "55px")}</div>
+        <div style="width: 150px; text-align: left; padding-left: 20px;">{set_high_qual_logo(path_levis, "100px")}</div>
     </div>
 """, unsafe_allow_html=True)
 
